@@ -41,8 +41,6 @@ In the model-building section, various machine learning models were tested to de
 
 - **Baseline Model**: Implemented a naive forecasting model as a benchmark.
 - **Advanced Models**:
-  - **Linear Regression**: To capture linear relationships between features and the target variable.
-  - **Random Forest**: A tree-based model used to capture non-linear dependencies in the data.
   - **XGBoost**: Gradient boosting model used to achieve a more accurate forecast by capturing complex interactions between features.
 - **Hyperparameter Tuning**: Performed hyperparameter tuning using grid search and cross-validation to improve model performance.
 
