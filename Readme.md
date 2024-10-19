@@ -27,8 +27,7 @@ The EDA section explores the dataset to uncover patterns, insights, and potentia
 
 Feature engineering was a crucial step in building an effective model. In this section:
 
-- **Date Features**: Extracted relevant features from the date, including year, month, week, day of the week, and holiday indicators.
-- **Lag Features**: Created lag features to incorporate historical sales information, enabling the model to capture temporal dependencies.
+- **Date Features**: Extracted relevant features from the date, including year, month, week, day of the week.
 - **Rolling Features**: Added rolling window statistics to capture the moving average of sales, which helps capture trends effectively.
 
 ### 3. Data Preprocessing
